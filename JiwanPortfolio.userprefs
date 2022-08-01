@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Plugins\FMOD\FMOD_Listener.cs">
+    <Files>
+      <File FileName="Assets\Scripts\System\DataLoadingSystem\BankLoader.cs" Line="20" Column="24" />
+      <File FileName="Assets\Plugins\FMOD\FMOD_Listener.cs" Line="50" Column="38" />
+      <File FileName="Assets\Plugins\FMOD\FMOD_StudioSystem.cs" Line="198" Column="29" />
+      <File FileName="Assets\Plugins\FMOD\Wrapper\fmod_studio.cs" Line="966" Column="9" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
