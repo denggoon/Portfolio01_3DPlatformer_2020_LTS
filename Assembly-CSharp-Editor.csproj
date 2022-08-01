@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{A760F9C0-C8FE-A008-8F26-9479427C66D3}</ProjectGuid>
+    <ProjectGuid>{7B9AAD4A-14B4-EC72-E53E-E6B32C281EE6}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp-Editor</AssemblyName>
@@ -329,20 +329,20 @@
     <Reference Include="JMOAssets_MatCapWelcome">
       <HintPath>Assets\_Arts\Shader\Editor\JMOAssets_MatCapWelcome.dll</HintPath>
     </Reference>
+    <Reference Include="unityplastic">
+      <HintPath>Library\PackageCache\com.unity.collab-proxy@1.17.0\Lib\Editor\PlasticSCM\unityplastic.dll</HintPath>
+    </Reference>
     <Reference Include="log4netPlastic">
       <HintPath>Library\PackageCache\com.unity.collab-proxy@1.17.0\Lib\Editor\PlasticSCM\log4netPlastic.dll</HintPath>
+    </Reference>
+    <Reference Include="JMOAssets">
+      <HintPath>Assets\_Arts\Shader\Editor\JMOAssets.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Plastic.Newtonsoft.Json">
       <HintPath>Library\PackageCache\com.unity.collab-proxy@1.17.0\Lib\Editor\PlasticSCM\Unity.Plastic.Newtonsoft.Json.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Plastic.Antlr3.Runtime">
       <HintPath>Library\PackageCache\com.unity.collab-proxy@1.17.0\Lib\Editor\PlasticSCM\Unity.Plastic.Antlr3.Runtime.dll</HintPath>
-    </Reference>
-    <Reference Include="unityplastic">
-      <HintPath>Library\PackageCache\com.unity.collab-proxy@1.17.0\Lib\Editor\PlasticSCM\unityplastic.dll</HintPath>
-    </Reference>
-    <Reference Include="JMOAssets">
-      <HintPath>Assets\_Arts\Shader\Editor\JMOAssets.dll</HintPath>
     </Reference>
     <Reference Include="nunit.framework">
       <HintPath>Library\PackageCache\com.unity.ext.nunit@1.0.6\net35\unity-custom\nunit.framework.dll</HintPath>
@@ -740,27 +740,27 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Assembly-CSharp-firstpass.csproj">
-      <Project>{716FE019-A62F-0CE9-83C6-AF7E31787C09}</Project>
+      <Project>{9B54D630-666B-D7A4-F977-BF00AD58B22A}</Project>
       <Name>Assembly-CSharp-firstpass</Name>
     </ProjectReference>
     <ProjectReference Include="Assembly-CSharp.csproj">
-      <Project>{3FD71085-A41A-609A-D869-51028333A2F3}</Project>
+      <Project>{2FD14E01-8D65-EEF5-69B3-E631AB3C66CD}</Project>
       <Name>Assembly-CSharp</Name>
     </ProjectReference>
     <ProjectReference Include="FMODUnity.csproj">
-      <Project>{D856EE9F-999B-8565-7B18-E7D1386E7CBA}</Project>
+      <Project>{D73C1B86-1B25-8E70-0D05-B8298740EAD2}</Project>
       <Name>FMODUnity</Name>
     </ProjectReference>
     <ProjectReference Include="FMODUnityEditor.csproj">
-      <Project>{B9DFA3E3-0061-DF39-C907-6A2EA5E84D24}</Project>
+      <Project>{B721990D-4BA2-E30E-92C5-8993459EC414}</Project>
       <Name>FMODUnityEditor</Name>
     </ProjectReference>
     <ProjectReference Include="FMODUnityResonance.csproj">
-      <Project>{001616F0-F1D8-16E6-C297-A4558C4901C1}</Project>
+      <Project>{3B093425-E876-84D5-123B-6B7803CD8695}</Project>
       <Name>FMODUnityResonance</Name>
     </ProjectReference>
     <ProjectReference Include="FMODUnityResonanceEditor.csproj">
-      <Project>{965AB8EF-C136-A05D-A25B-FBF7555C4D28}</Project>
+      <Project>{0C2D8D4E-EBB1-5B5D-824A-E367D8296CF2}</Project>
       <Name>FMODUnityResonanceEditor</Name>
     </ProjectReference>
   </ItemGroup>
